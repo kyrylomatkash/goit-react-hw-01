@@ -1,8 +1,8 @@
 // Імпорт
-import Profile from 'profile-component/Profile';
-import Statistics from 'statistics-component/Statistics';
-import FriendList from 'friends-list-component/FriendList';
-import TransactionHistory from 'transaction-history-component/TransactionHistory';
+import Profile from './profile-component/Profile';
+import Statistics from './statistics-component/Statistics';
+import FriendList from './friends-list-component/FriendList';
+import TransactionHistory from './transaction-history-component/TransactionHistory';
 import user from 'data/user.json';
 import data from 'data/data.json';
 import friends from 'data/friends.json';

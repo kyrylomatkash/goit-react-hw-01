@@ -1,3 +1,4 @@
+import './statistics.css';
 const Statistics = ({ title, stats }) => {
   // Елемент статистики
   const resultStats = stats.map(({ id, label, percentage }) => (

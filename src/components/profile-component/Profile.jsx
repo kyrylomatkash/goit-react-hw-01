@@ -1,7 +1,7 @@
 import './profile.css';
 const Profile = user => {
   const { username, tag, location, avatar, stats } = user;
-  // Return базової картки профілю
+  // Картка профілю
   return (
     <div className="profile">
       <div className="description">

@@ -24,4 +24,5 @@ export const App = () => {
     </>
   );
 };
+// Експорт
 export default App;
